@@ -1,5 +1,10 @@
 # frontend
 
+Ui para un pequeño CRUD
+
+# capturas
+
+
 ## Project setup
 ```
 npm install

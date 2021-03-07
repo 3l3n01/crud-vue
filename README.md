@@ -2,7 +2,12 @@
 
 Ui para un pequeño CRUD
 
-# capturas
+## capturas
+
+![Tabla](https://raw.githubusercontent.com/elzafirox/crud-vue/master/capturas/1.png)
+![Editar contacto](https://raw.githubusercontent.com/elzafirox/crud-vue/master/capturas/2.png)
+![Registro nuevo](https://raw.githubusercontent.com/elzafirox/crud-vue/master/capturas/3.png)
+![Eliminar registro](https://raw.githubusercontent.com/elzafirox/crud-vue/master/capturas/4.png)
 
 
 ## Project setup
